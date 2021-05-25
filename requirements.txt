@@ -1,4 +1,4 @@
+instapy
 django
 gunicorn
 django-heroku
-instapy
