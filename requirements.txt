@@ -1,4 +1,5 @@
 instapy
+webdriverdownloader
 django
 gunicorn
 django-heroku
